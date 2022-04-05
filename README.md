@@ -2,7 +2,7 @@
 This is a pytorch implementation of Deep Multi-view Clustering Based on Distribution Aligned Variational Autoencoder.
 
 # Requirements
-Before testing, you need to configure the deep learning framework pytorch environment.
+Please configure the deep learning framework pytorch environment.
 
 The environment file is in yml format.
 
