@@ -18,4 +18,4 @@ password：3wst
 # Implement
 Test the specific dataset by adding the argument --data_name. Optional dataset (MSRCv1, Yale, NUS, ALOI, Caltech101).
 
-python MVCVAE_train.py --data_name MSRCv1
+'python MVCVAE_train.py --data_name MSRCv1'
