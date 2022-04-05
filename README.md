@@ -6,9 +6,13 @@ The environment file is in yml format.
 
 # Preliminary
 1.The above code can test the MSRC-v1 dataset.
+
 2.Download other datasets and files from Baidu Cloud,
+
 URL：https://pan.baidu.com/s/1r9xCYofCuM0kf147kVu-4A 
+
 password：3wst   
+
 3.Put the two files in the default directory.
 
 # Implement
