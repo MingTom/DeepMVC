@@ -18,6 +18,6 @@ password：3wst
 3.Put the two files in the default directory.
 
 # Implement
-Test the specific dataset by adding the argument --data_name. Optional dataset (MSRCv1, Yale, NUS, ALOI, Caltech101).
+Reproduce results by adding the argument --data_name. Optional dataset (MSRCv1, Yale, NUS, ALOI, Caltech101).
 
 `python main.py --data_name MSRCv1`
